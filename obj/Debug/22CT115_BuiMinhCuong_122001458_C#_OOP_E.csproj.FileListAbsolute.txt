@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\bin\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.exe.config
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\bin\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.exe
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\bin\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.pdb
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\_22CT115_BuiMinhCuong_122001458_C__OOP_E.Form1.resources
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\_22CT115_BuiMinhCuong_122001458_C__OOP_E.Properties.Resources.resources
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.exe
+C:\Users\Admin\source\repos\22CT115_BuiMinhCuong_122001458_C#_OOP_E\obj\Debug\22CT115_BuiMinhCuong_122001458_C#_OOP_E.pdb
